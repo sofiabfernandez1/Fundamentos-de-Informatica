@@ -1,0 +1,10 @@
+Diseñar el algoritmo en pseudocódigo para resolver los siguientes problemas y escribir el programa correspondiente en lenguaje Python. Identifiquen las entradas y salidas. Recomendamos pensar la solución para cada ejercicio, hacer una puesta en común con el equipo y responder con la mejor alternativa de solución ideada.   
+
+
+Ingresar el nombre del usuario del programa y saludarlo. Ejemplo: si el usuario se llama Juan, se debe mostrar el mensaje “Hola Juan”. 
+
+Ingresar tres notas de una materia de un alumno y muestre la suma y el promedio. 
+
+Ingresar el valor de un producto. Luego, calcular el IVA (21%) y obtener el total de la factura. 
+
+Tres personas invierten dinero para fundar una empresa (no necesariamente en partes iguales). Calcular qué porcentaje invirtió cada una. 
