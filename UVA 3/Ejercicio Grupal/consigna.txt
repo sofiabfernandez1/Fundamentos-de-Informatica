@@ -33,3 +33,4 @@ Número ingresado: 5
 10 x 5 = 50
 
 NOTA: para este ejercicio no está permitido utilizar ciclos de repetición, que veremos más adelante. 
+
