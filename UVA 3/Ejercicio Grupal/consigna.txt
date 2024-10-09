@@ -1,4 +1,4 @@
-Utilizar la instrucción print para mostrar cada resultado de las siguientes expresiones. Explicar en un comentario de una sola línea el orden que ejecuta el intérprete Python en cada una de ellas. Ejemplo: 12*4+4*5 = 68 orden: multiplicación, suma: 
+1- Utilizar la instrucción print para mostrar cada resultado de las siguientes expresiones. Explicar en un comentario de una sola línea el orden que ejecuta el intérprete Python en cada una de ellas. Ejemplo: 12*4+4*5 = 68 orden: multiplicación, suma: 
 12 * 4 + 4 * 5 
 
 12 * (4 + 4) * 5 
@@ -12,14 +12,14 @@ Utilizar la instrucción print para mostrar cada resultado de las siguientes exp
 3 * ((4 + 5) / (18 / 6) - 4) 
 
 
-Realizar un programa que declare las variables a y b con los valores 10 y 5. Mostrar en cuatro líneas los resultados de utilizar los siguientes operadores de asignación: 
+2- Realizar un programa que declare las variables a y b con los valores 10 y 5. Mostrar en cuatro líneas los resultados de utilizar los siguientes operadores de asignación: 
 a = a + b, a = a - b, a = a * b y a = a / b.  
 
-Realizar un programa que permita obtener la suma, resta, multiplicación y división de dos números x e y ingresados por teclado. El programa debe imprimir los números pedidos y el resultado de las cuatro operaciones.  
+3- Realizar un programa que permita obtener la suma, resta, multiplicación y división de dos números x e y ingresados por teclado. El programa debe imprimir los números pedidos y el resultado de las cuatro operaciones.  
 
-Realizar un programa que, dada una cantidad de dólares y su cotización permita obtener el equivalente en pesos.  
+4- Realizar un programa que, dada una cantidad de dólares y su cotización permita obtener el equivalente en pesos.  
 
-Realizar un programa que, dado un número ingresado por teclado, obtenga su tabla de multiplicar hasta el 10 y la muestre en un formato similar a este: 
+5- Realizar un programa que, dado un número ingresado por teclado, obtenga su tabla de multiplicar hasta el 10 y la muestre en un formato similar a este: 
 Número ingresado: 5 
 
 1 x 5 = 5 
