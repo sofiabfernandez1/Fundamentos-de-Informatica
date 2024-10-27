@@ -18,4 +18,3 @@ print(variable)
 #Imprimir mensaje + variable
 print("Mensaje", variable)
 
-
