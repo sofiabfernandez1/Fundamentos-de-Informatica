@@ -45,3 +45,10 @@ m = crear_matriz(2,2)
 llenar_matriz(m)
 print(m)
 
+def mostrar_matriz(matriz):
+    filas = len(matriz)
+    columnas = len(matriz[0])
+    for f in range(filas):
+        for c in range(columnas):
+            print(f'{matriz[f][c]:7d}', end="")
+        print()
